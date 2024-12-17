@@ -255,11 +255,11 @@
     max-width: 100%;
 }
 
-.about-image img {
+/* .about-image img {
     width: 100%;
     max-width: 400px;
     border-radius: 10px;
-}
+} */
 
 /* Amenities Section */
 .amenities {
