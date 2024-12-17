@@ -155,6 +155,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 50px;
+    background-image-width:12vh
     background-color: #f9f9f9;
     position: relative;
     overflow: hidden;
@@ -224,6 +225,7 @@
 
     .hero-image img {
         margin-top: 1rem;
+        width:10vh;
     }
 }
 
